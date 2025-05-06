@@ -2,8 +2,11 @@
 This is my first JS demo repo
 
 Author - Sarang Patil
+<br>
 JavaScript Basic to advance learning in Three phases.
+<br>
 1 Topics:
+<br>
 Introduction to JavaScript
 
 1.What is JS? How browsers run JS?
