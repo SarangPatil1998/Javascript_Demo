@@ -1,5 +1,5 @@
 # Javascript_Demo
-This is my first JS demo repo
+This is my first JS demo repo.
 
 Author - Sarang Patil
 <br>
